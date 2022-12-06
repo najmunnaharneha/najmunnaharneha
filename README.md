@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="content-fit:cover">
 
-### Hi there 👋, I'am Najmun Nahar Neha
+### Hi there, I'm Najmun Nahar Neha
 #### A passionate learner. Knowledge seeker. Web enthusiastic. 
 
 Agile, goal-oriented. Owns a track record of success in consistently identifying and meeting the technology demands of enterprises through clever innovation. Proficient in developing user-friendly creative web technologies with clean code.
