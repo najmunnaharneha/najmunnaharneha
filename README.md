@@ -1,4 +1,4 @@
-![A passionate learner. Knowledge seeker. Web enthusiastic. ](https://i0.wp.com/i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?w=740&ssl=1)
+![A passionate learner. Knowledge seeker. Web enthusiastic. ](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ### Hi there 👋, I'am Najmun Nahar Neha
 #### A passionate learner. Knowledge seeker. Web enthusiastic. 
