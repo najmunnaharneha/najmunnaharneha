@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="width:100vw; height:50%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="width:100vw; height:20vh">
 
 ### Hi there, I'm Najmun Nahar Neha
 #### A passionate learner. Knowledge seeker. Web enthusiastic. 
