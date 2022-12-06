@@ -14,7 +14,7 @@ Skills: PHP / Laravel / JS / jQuery / SASS / HTML / CSS
 - 💬 Ask me about PHP, Laravel, Frontend Development 
 - 📫 How to reach me: najmun.nahar.nehaa@gmail.com 
 
-
+<h3 align="left">Connect with me on:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/najmunnaharneha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmun-nahar-nehaa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/neha.ahmed.nehuu)  
 
