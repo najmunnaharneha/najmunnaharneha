@@ -1,8 +1,6 @@
-<img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-
+![A passionate learner. Knowledge seeker. Web enthusiastic. ](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 ### Hi there 👋, I'am Najmun Nahar Neha
 #### A passionate learner. Knowledge seeker. Web enthusiastic. 
-
 
 Agile, goal-oriented. Owns a track record of success in consistently identifying and meeting the technology demands of enterprises through clever innovation. Proficient in developing user-friendly creative web technologies with clean code.
 
