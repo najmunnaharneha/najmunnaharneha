@@ -11,7 +11,7 @@ Skills:  JavaScript / ReactJS / jQuery / SASS / HTML / CSS / PHP / Laravel
 <!-- - 🔭 I’m currently working on A service app based on Laravel  -->
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about JavaScipt, ReactJS, Frontend Development, PHP, Laravel 
+- 💬 Ask me about JavaScript, ReactJS, Frontend Development, PHP, Laravel 
 - 📫 How to reach me: najmun.nahar.nehaa@gmail.com 
 
 <h3 align="left">Connect with me on:</h3>
