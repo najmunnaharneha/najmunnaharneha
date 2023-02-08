@@ -6,12 +6,12 @@
 Agile, goal-oriented. Owns a track record of success in consistently identifying and meeting the technology demands of enterprises through clever innovation. Proficient in developing user-friendly creative web technologies with clean code.
 
 
-Skills: PHP / Laravel / JS / jQuery / SASS / HTML / CSS
+Skills:  JavaScript / ReactJS / jQuery / SASS / HTML / CSS / PHP / Laravel
 
-- 🔭 I’m currently working on A service app based on Laravel 
-- 🌱 I’m currently learning Laravel, Tailwind CSS 
+<!-- - 🔭 I’m currently working on A service app based on Laravel  -->
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about PHP, Laravel, Frontend Development 
+- 💬 Ask me about JavaScipt, ReactJS, Frontend Development, PHP, Laravel 
 - 📫 How to reach me: najmun.nahar.nehaa@gmail.com 
 
 <h3 align="left">Connect with me on:</h3>
