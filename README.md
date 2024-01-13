@@ -6,7 +6,7 @@
 Agile, goal-oriented. Owns a track record of success in consistently identifying and meeting the technology demands of enterprises through clever innovation. Proficient in developing user-friendly creative web technologies with clean code.
 
 
-Skills:  JavaScript / ReactJS / jQuery / SASS / HTML / CSS / PHP / Laravel
+Skills:  JavaScript / ReactJS / jQuery / SASS / HTML / CSS / PHP 
 
 <!-- - 🔭 I’m currently working on A service app based on Laravel  -->
 - 🌱 I’m currently learning ReactJS
