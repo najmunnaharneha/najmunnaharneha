@@ -6,12 +6,12 @@
 Agile, goal-oriented. Owns a track record of success in consistently identifying and meeting the technology demands of enterprises through clever innovation. Proficient in developing user-friendly creative web technologies with clean code.
 
 
-Skills:  JavaScript / ReactJS / jQuery / SASS / HTML / CSS 
+Skills:  JavaScript / VueJS / ReactJS / jQuery / SASS / HTML / CSS 
 
 <!-- - 🔭 I’m currently working on A service app based on Laravel  -->
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about JavaScript, ReactJS, Frontend Development 
+- 💬 Ask me about JavaScript, VueJS, ReactJS, Frontend Development 
 - 📫 How to reach me: najmun.nahar.nehaa@gmail.com 
 
 <h3 align="left">Connect with me on:</h3>
